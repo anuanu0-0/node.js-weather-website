@@ -1,8 +1,8 @@
 
 ## Node Weather App
 
-Description
-Created a simple weather website using Node.js, Express, and various npm modules for submitting an API request to Mapbox and WeatherStack to retrieve location information and the current weather, respectively.
+### Description
+A simple weather application using Node.js, Express, and various npm modules for submitting an API request to Mapbox and WeatherStack to retrieve location information and the current weather, respectively.
 
 ## Run
 <pre>npm install</pre>
