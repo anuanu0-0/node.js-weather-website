@@ -9,6 +9,7 @@ A simple weather application using Node.js, Express, and various npm modules for
 <pre>npm install</pre>
 - For Starting the application
 <pre> npm run dev </pre>
+#### For info go through package.json 
 
 ##  Built With
 - Node.js - JavaScript Runtime
